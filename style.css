@@ -1,0 +1,85 @@
+* {
+    font-family: 'poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    margin: 32px 0 163px 15px;
+
+}
+
+section {
+    display: inline-block;
+    margin-left: 100px;
+
+}
+
+h1 {
+    width: 582px;
+    height: 164px;
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.596154px;
+    color: #161A49;
+
+}
+
+p {
+    margin-top: 20px;
+    width: 493px;
+    height: 99px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    color: #4B505A;
+}
+
+.botao-baixo {
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color: #6FBF44;
+    background-color: white;
+    border: none;
+    cursor: pointer;
+
+}
+
+.link-topo {
+
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    margin-left: 35px;
+    text-align: center;
+    letter-spacing: 0.875px;
+    color: #17233D;
+}
+
+.botao-topo {
+    padding: 15px;
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    margin-left: 35px;
+    cursor: pointer;
+}
+
+.img01 {
+    margin-left: 121px;
+    width: 595.18px;
+    height: 500px;
+    display: inline-block
+}
